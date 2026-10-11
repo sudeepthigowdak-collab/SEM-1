@@ -1,0 +1,67 @@
+#Day4
+#assignment:2) SAY WHAT YOU ACTUALLY NEED.
+
+#Easy
+1)Name the five parts of a clear instruction.
+ANS: The five parts of clear instruction are:
+1. Goal: What we actually want to achive.
+2.Expected Output: The shape or formal in which the answer should be presented.
+3.Material: The information or content the AI should use to prepare the answer.
+4.Audience: The people who will read or hear the answer.
+5.Necessary Constraint: Mention the conditions, limits, or rules that must be followed.
+
+2) Why is a cague prompt less effective than a clear prompt?
+ANS: A vague prompt does not give enough information about what the user actually needs. As a rusult, the AI may provide a general or irrelevant answer. A clear prompt explains 
+the task, expected output, audience, and requirements. Therefore, clear prompts usually produce more useful and accurate answer.
+
+3)What is few-shot promoting? Give an example.
+ANS: Few-shot prompting is a technique in which we provide the AI with a few examples to show it the pattern or format we expect in the anwer.
+Example:
+Ex 1:
+input:Happy birthday to my best friend!
+output:So proud of your achievement!
+Ex:2
+input:Thankyou for helping me.
+output:Thanyou so much for your kind support!
+
+Now:
+input:Thankyou for helping me.
+output:Thankyou so much for your kind support!
+Here, the examples help the AI understand the expected writing style.
+4) Improve the prompt "write a message."
+Improved prompt:
+write a polote WhatsApp message to my class teacger requesting leave for one day because I am not feeling well. Use simple English and keep the message within 40 words.
+This prompt is better because it clearly explain the goat, audience, platform, reason, language, and word limit.
+
+5) What important information is missing from the prompt"Act as an expert and explain this"?
+ANS:The prompt is incomplete because it does not specify:
+1. Goat: what exactly should be explained?
+2.Expected output: should the answer be a paragraph, summary, or list?
+3.Materia: what topic or information should be explained?
+4.Audience: is the explaination for a school student, college student, or professional?
+5.Necessary Constraints: should the explaination follow a particular word limit or use simple language?
+
+6)Write a short slogan for a college fest in fewer than 15 words.
+ANS:"Celebrate Talent, create memories, and make every moment count!"
+this slogan is short, attractive, and suitable for a college fest poster.
+
+7) when should you use few-shot prompting to generate captions?
+ANS:few-shot prompting is useful when we want the AI t generate captions that follow a particular style or pattern. By providing two example captions, we can help the AI understand the expected tone, length, and formal.
+ex 1:
+photo:Friends enjoying a trip.
+caption: Good friends, great memories!
+ex 2:
+photo:Students celebrating a college event.
+caption: Making memories that last forever!
+
+New photo: students participating in a college fest.
+expected caption: together we celebrate, learn, and create unforgettable memories!
+ 
+
+
+
+
+
+ 
+
+ 
