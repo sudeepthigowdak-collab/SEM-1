@@ -1,0 +1,33 @@
+##Day- 5
+#Assignment-02: Your Own Task, Walked and Improved
+
+##Easy 
+1. Why should a student turn the seven task-path answers into one clear message?
+ANS: A student should turn the seven task-path answers into one clear message because it helps the AI understand the task properly. 
+It includes the purpose, important facts, instructions, and expected result. This reduces confusion and helps the student get a more useful and accurate answer.
+2. What does it mean to find one weak step in a first attempt?
+Finding one weak step means identifying the part of the task where the first attempt went wrong or lacked important information. 
+Instead of repeating the entire task, we should correct that particular step and improve the result.
+3. Why is “it looks fine” not enough before trusting an AI answer?
+“It looks fine” is not enough because an AI answer may contain incorrect facts or miss important details. We should check the result against our actual 
+requirements and verify important information before trusting or using it.
+
+##Intermediate 
+4. A student asks, “Help me with my assignment.” The result is too general. Which task-path step is weak? What should the student add?
+The “What do you give the assistant?” step is weak because the student has not provided enough information. The student should add the assignment topic,
+ specific questions, relevant notes, required format, and expected length. This helps the AI provide a more specific and useful answer.
+5. A student gets a revision timetable but never checks whether the daily workload fits their real pace. What human step did they skip?
+The student skipped the “decide yourself” step. They should review the timetable and decide whether the daily workload suits their learning speed, available time, 
+and other activities. They should also check whether the schedule is realistic before following it.
+
+##Hard
+6. Choose one real task you need this week. Write a clear message for an AI tool using purpose, useful facts, task, and expected result.
+My Task: Preparing a Revision Timetable for an Exam
+I have an upcoming exam and need a practical revision timetable for one subject. I will provide the subject name, important topics, 
+the number of days remaining, and the time I can study each day. Please prepare a simple daily timetable that covers all the important topics, 
+includes short breaks, and provides time for revision and practice questions. I expect a clear, realistic schedule that I can follow easily.
+ After receiving the timetable, I will decide whether it suits my daily routine and check whether all the topics are included.
+7. Your first result is off-target. Name one weak step you would fix, what you would change, and what you would check in the new result.
+If my first result is off-target, I would fix the “What do you give the assistant?” step. I would provide more accurate details about the topics,
+ days remaining, and available study hours. Then, I would ask the AI to prepare a revised timetable based on these details.
+In the new result, I would check whether all the topics are covered, the daily workload is manageable, and enough time is available for revision and practice. I would make my own final decision before following the timetable.
